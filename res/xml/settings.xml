@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="User Profile" >
+        <EditTextPreference
+            android:key="cost"
+            android:title=""
+            android:summary="total cost till now" />
+        <!-- <EditTextPreference
+            android:key="mausambi"
+            android:title=""
+            android:summary="total cost till now" />
+        <EditTextPreference
+            android:key="watermelon"
+            android:title=""
+            android:summary="total cost till now" />
+        <EditTextPreference
+            android:key="chocolate"
+            android:title=""
+            android:summary="total cost till now" />
+        <EditTextPreference
+            android:key="choco-coffee"
+            android:title=""
+            android:summary="total cost till now" />
+        <EditTextPreference
+            android:key="grape"
+            android:title=""
+            android:summary="total cost till now" />
+        <EditTextPreference
+            android:key="banana"
+            android:title=""
+            android:summary="total cost till now" />
+        <EditTextPreference
+            android:key="coffee"
+            android:title=""
+            android:summary="total cost till now" /> -->
+    </PreferenceCategory>
+
+</PreferenceScreen>
