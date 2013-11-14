@@ -8,6 +8,11 @@ Also maintains individual count/bill of each juice.
 
 ToDo:
 
-To Add the Squilite support
+    To Add the Squilite support
 
-To provide options for add, delete or edit info. about a juice
+    To provide options for add, delete or edit info. about a juice
+
+
+Feel free to use the app, and report if you find any bug.
+
+Cheers !
